@@ -13,10 +13,10 @@
 
     //BD Local
     $mysql = array(
-			"host"=>"172.31.100.100",
+			"host"=>"mysql-connect",
 			"user"=>"root",
 			"password"=>"Senha123",
-            "database"=>"api_php"
+            "database"=>"meubanco"
 		);
 
 global $pdo;
